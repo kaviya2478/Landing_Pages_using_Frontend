@@ -1,7 +1,9 @@
-Landing Pages using Frontend <br>
+<b>Landing Pages using Frontend</b>
+<br>
 This repository contains multiple responsive and visually appealing landing pages created using modern frontend technologies. These landing pages are designed to demonstrate creativity, usability, and user-friendly interfaces, suitable for a variety of purposes like businesses, portfolios, or promotional campaigns.
 
-🛠️ Features
+<b>🛠️ Features</b>
+<br>
 Responsive Design: Optimized for all screen sizes and devices.
 Clean Code: Easy-to-understand and well-commented HTML, CSS, and JavaScript.
 Creative Designs: Multiple layouts with unique designs tailored for different use cases.
